@@ -11,7 +11,6 @@
 
 
 
-![Php](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express)
