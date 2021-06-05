@@ -57,7 +57,9 @@ A 21Y/O Software🌈 and Web developer🎯 from Morocco. I'm passionate about Fu
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Subhampreet&theme=dark" width="45%" > -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyoubMoustahfid)](https://github.com/AyoubMoustahfid/AyoubMoustahfid)
+![stats](https://github-readme-stats.vercel.app/api?username=AyoubMoustahfid&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=AyoubMoustahfid&theme=juicyfresh&no-bg=true&no-frame=true&column=7&")
 
 <br>
 
@@ -68,7 +70,6 @@ A 21Y/O Software🌈 and Web developer🎯 from Morocco. I'm passionate about Fu
 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ayoub-moustahfid-b14198185/)
-
 
 
 <a href="https://dev.to/subhampreet"><img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
