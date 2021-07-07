@@ -45,15 +45,11 @@ A 21Y/O Software🌈 and Web developer🎯 from Morocco. I'm passionate about Fu
 
 ## 🏆 Github Status
 
-<!-- <img  src="https://github-readme-stats.vercel.app/api?username=Subhampreet&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoubmoustahfid&show_icons=true&locale=en&layout=compact" alt="ayoubmoustahfid" /></p>
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Subhampreet&theme=dark" width="45%" > -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayoubmoustahfid&show_icons=true&locale=en" alt="ayoubmoustahfid" /></p>
 
-
-![stats](https://github-readme-stats.vercel.app/api?username=AyoubMoustahfid&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=AyoubMoustahfid&theme=juicyfresh&no-bg=true&no-frame=true&column=7&")
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubmoustahfid&" alt="ayoubmoustahfid" /></p>
 <br>
 
 <div align="center">
