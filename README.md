@@ -53,12 +53,4 @@ A 21Y/O Software🌈 and Web developer🎯 from Morocco. I'm passionate about Fu
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ayoub-moustahfid-b14198185/)
 
 
-<a href="https://dev.to/subhampreet"><img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
 
-</div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoubmoustahfid&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubmoustahfid" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayoubmoustahfid" alt="ayoubmoustahfid" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
