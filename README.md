@@ -16,7 +16,6 @@ A 21Y/O Software🌈 and Web developer🎯 from Morocco. I'm passionate about Fu
 - 🌱 I’m currently learning NodeJs, Spring boot and ReactJs
 - 👯 I’m looking to collaborate on NodeJs projects and Basic Web Dev stuff
 - 📫 How to reach me: You may follow me on [Linkedin](https://www.linkedin.com/in/ayoub-moustahfid-b14198185) 
-- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 <br />
 
