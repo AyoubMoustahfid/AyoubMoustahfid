@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm a Software and Web Developer from Morocco ❤</h3>
   
-A 21Y/O Software and Web developer🎯 from Morocco. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
+Full-stack web developer 🌐 from Morocco, driven by a passion for crafting digital solutions. Specialized in software development, I thrive on automating processes, constructing robust pipelines, and tackling scalability challenges. My focus extends to enhancing efficiency and optimizing performance. As a fervent supporter of open-source initiatives, I actively contribute to the community. As a Frontend Developer specializing in JavaScript (React.js | React Native | Vue.js), my expertise lies in crafting engaging user interfaces and seamless user experiences. While my focus is on frontend development, I am committed to staying abreast of evolving technologies and industry trends. I actively contribute to the development community and thrive on innovation in web and mobile applications. 🚀💻
 
 
 ![age](https://img.shields.io/badge/age-21-blue)
@@ -13,10 +13,10 @@ A 21Y/O Software and Web developer🎯 from Morocco. I'm passionate about Full-S
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently learning NodeJs, Spring boot and ReactJs
+- 🌱 I’m currently learning NodeJs, Spring boot, and ReactJs
 - 👯 I’m looking to collaborate on NodeJs projects and Basic Web Dev stuff
-- 📫 How to reach me: You may follow me on [Linkedin](https://www.linkedin.com/in/ayoub-moustahfid-b14198185) 
-- ⚡ Fun fact: Jack of all trades , Master of None ! 
+- 📫 How to reach me: You may follow me on [Linkedin](https://www.linkedin.com/in/ayoub-moustahfid) 
+- ⚡ Fun fact: Jack of all trades, Master of None! 
 <br />
 
 
@@ -36,11 +36,11 @@ A 21Y/O Software and Web developer🎯 from Morocco. I'm passionate about Full-S
 
 ## 🏆 Github Status
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoubmoustahfid&show_icons=true&locale=en&layout=compact" alt="ayoubmoustahfid" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyoubMoustahfid&show_icons=true&locale=en&layout=compact" alt="AyoubMoustahfid" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayoubmoustahfid&show_icons=true&locale=en" alt="ayoubmoustahfid" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AyoubMoustahfid&show_icons=true&locale=en" alt="AyoubMoustahfid" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubmoustahfid&" alt="ayoubmoustahfid" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyoubMoustahfid&" alt="AyoubMoustahfid" /></p>
 <br>
 
 <div align="center">
@@ -49,7 +49,7 @@ A 21Y/O Software and Web developer🎯 from Morocco. I'm passionate about Full-S
 ### Show some ❤️ by starring ⭐ some of the repositories!
 
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ayoub-moustahfid-b14198185/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ayoub-moustahfid/)
 
 
 
