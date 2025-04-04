@@ -7,7 +7,7 @@
 Full-stack web developer 🌐 from Morocco, driven by a passion for crafting digital solutions. Specialized in software development, I thrive on automating processes, constructing robust pipelines, and tackling scalability challenges. My focus extends to enhancing efficiency and optimizing performance. As a fervent supporter of open-source initiatives, I actively contribute to the community. As a Frontend Developer specializing in JavaScript (React.js | React Native | Vue.js), my expertise lies in crafting engaging user interfaces and seamless user experiences. While my focus is on frontend development, I am committed to staying abreast of evolving technologies and industry trends. I actively contribute to the development community and thrive on innovation in web and mobile applications. 🚀💻
 
 
-![age](https://img.shields.io/badge/age-21-blue)
+![age](https://img.shields.io/badge/age-25-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Bhubaneswar-3c9)
 
